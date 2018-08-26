@@ -20,12 +20,14 @@ L. Balboa at abierto.cc (gráficos)
 
 Para conseguir el kit, visita: https://abierto.cc/shop
 
-También puedes ver las instrucciones de montaje desde aquí: https://sites.google.com/abierto.cc/fenderino
+También puedes ver las instrucciones de montaje desde aquí: 
+https://sites.google.com/abierto.cc/fenderino
 
 
 # Artículos de interés
 
-* Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
+* Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: 
+http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
 
 # Link a repositorio originial
 
