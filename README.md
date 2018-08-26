@@ -3,6 +3,7 @@
 Construir Fenderino paso a paso en vídeo:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMOizD7iRy4&t/0.jpg)](https://www.youtube.com/watch?v=jMOizD7iRy4&t)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 Si quieres conseguir el kit para montarlo, visita: https://abierto.cc/shop
 
