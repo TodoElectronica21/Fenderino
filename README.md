@@ -2,7 +2,6 @@
 
 Construir Fenderino paso a paso en vídeo:
 
-[![Montaje de Fenderino](https://img.youtube.com/vi/jMOizD7iRy4&t/0.jpg)](https://www.youtube.com/watch?v=jMOizD7iRy4&t)
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 [![Montaje de Fenderino](https://imgur.com/a/3Xqw2Hf)](https://youtu.be/jMOizD7iRy4 "Montando Fenderino")
 
