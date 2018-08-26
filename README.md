@@ -10,9 +10,7 @@ Pincha en la imagen para ver el tutorial
 # Autores del proyecto
 
 D. Cuartielles at abierto.cc (prueba de concepto + código)
-
 J. Garcia at abierto.cc (diseño en KiCAD)
-
 L. Balboa at abierto.cc (gráficos)
 
 
@@ -26,7 +24,7 @@ https://sites.google.com/abierto.cc/fenderino
 
 # Artículos de interés
 
-* Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: <br>
+Artículo de X. Pérez y explicación sobre el uso de la guitarra con MIDI: <br>
 http://tinkerman.cat/fenderino-arducaster-the-coolest-guitar/
 
 # Link a repositorio originial
