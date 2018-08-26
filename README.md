@@ -2,7 +2,7 @@
 
 Construir Fenderino paso a paso en vídeo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jMOizD7iRy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jMOizD7iRy4&t/0.jpg)](https://www.youtube.com/watch?v=jMOizD7iRy4&t)
 
 Si quieres conseguir el kit para montarlo, visita: https://abierto.cc/shop
 
